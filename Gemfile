@@ -45,3 +45,9 @@ group :development do
   gem 'spring'
 end
 
+# Gems for image management
+gem 'carrierwave'
+gem 'mini_magick', '~> 4.3.6'
+gem 'fog'
+gem 'figaro'
+gem 'unf'
