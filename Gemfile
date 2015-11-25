@@ -47,7 +47,7 @@ end
 
 # Gems for image management
 gem 'carrierwave'
-gem 'mini_magick', '~> 4.3.6'
+gem 'mini_magick'
 gem 'fog'
 gem 'figaro'
 gem 'unf'
